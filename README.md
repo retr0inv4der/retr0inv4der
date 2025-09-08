@@ -64,22 +64,12 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3V1NnFpYzR2OWlrZjRreTZpb3N2MXljbTVxNTNjN3hrNmk3MXpxOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l41m3ywjOxm9SzAhG/giphy.gif"  />
-
-###
-
-<img align="left" height="192" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU2YnoxdnZ1ZzQ4MHZtNHVlNTBpYjc5NGdidm5pNDhncnN1YWNybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11v0bBwGjkiLio/giphy.gif"  />
-
-###
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2txbGM5MnY0MnJ5aTA1bXVpMHMxYnh3NjRiY2JramtmOTc1dG9sdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XvdeRLLajzqiA/giphy.gif"  />
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXk3Nmh4ZXUxZXh5cTEydGlraHowajh0ZmV3Y2p6NXV0ZzQ3NWt6OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KY2ZMhnCxP008/giphy.gif"  />
+  <img src="https://streak-stats.demolab.com?user=retr0inv4der&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
