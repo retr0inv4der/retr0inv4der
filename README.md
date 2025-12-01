@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Computer engineering student focused on low-level systems, reverse engineering, and debugging.</p>
+<p align="left">Computer engineering student specializing in low-level systems, reverse engineering, and debugging.
+Comfortable building backend services when needed (Django, APIs, JWT auth).</p>
 
 ###
 
